@@ -9,9 +9,11 @@
   "keywords": [
     "escape-hatch",
     "error",
-    "help"
+    "help",
+    "node",
+    "npm"
   ],
-  "author": "1704-rm",
+  "author": "Jennifer Tam <jennifer.k.tam@gmail.com>, Cindy Schalit <cindyschalit@gmail.com>, Alice Perez <aliceperez25@gmail.com>, Josh White <whitejosh42@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "base64-url": "^1.3.3",
