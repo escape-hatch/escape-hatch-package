@@ -1,0 +1,20 @@
+{
+  "name": "escape-hatch",
+  "version": "1.0.3",
+  "description": "Instant support for error messages in the terminal and console.",
+  "main": "escape-hatch-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "escape-hatch",
+    "error",
+    "help"
+  ],
+  "author": "1704-rm",
+  "license": "ISC",
+  "dependencies": {
+    "base64-url": "^1.3.3",
+    "chalk": "^2.0.1"
+  }
+}
